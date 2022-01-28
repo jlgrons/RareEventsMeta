@@ -1,0 +1,17 @@
+Uniform
+• Normal
+• Bernoulli
+• Binomial
+• Exponential
+• Geometric
+• Hypergeometric
+• Poisson
+• Chi-squared
+• Student-T
+• F Distribution • Gamma
+• Beta
+• Multinomial
+•
+• • • • •
+Negative Binomial
+Cauchy Laplace Pareto Rayleigh Weibull
